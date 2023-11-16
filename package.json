@@ -1,6 +1,6 @@
 {
   "name": "mwezi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "mwezi",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,5 @@
     "url": "https://github.com/melvincarvalho/mwezi/issues"
   },
   "homepage": "https://github.com/melvincarvalho/mwezi#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
